@@ -1,7 +1,7 @@
 # docker-node-demo
 Ejemplo simple de aplicación NodeJS sobre entorno Docker
 
-* Para habilitar ambiente local
+## Para habilitar ambiente local
 
 - Definir archivo de variables de entorno, tomando como ejemplo el archivo ".env-sample" y crear un archivo ".env"
 ```
