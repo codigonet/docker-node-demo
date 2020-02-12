@@ -10,5 +10,5 @@ cp .env-sample .env
 
 - Para crear una imagen docker local:
 ```
-docker build -t app-node
+docker build -t app-node .
 ```
